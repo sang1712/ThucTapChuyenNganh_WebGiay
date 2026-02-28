@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Giay_Application.props" />
+</Project>

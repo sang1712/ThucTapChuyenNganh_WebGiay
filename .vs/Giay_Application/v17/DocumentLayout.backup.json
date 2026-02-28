@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|d:\\\u0111\u1ED3 \u00E1n_n\u0103m 4\\thuc_tap_chuyen_nganh\\giay_application\\giay_application\\models\\quanlibangiaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|solutionrelative:giay_application\\models\\quanlibangiaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|d:\\\u0111\u1ED3 \u00E1n_n\u0103m 4\\thuc_tap_chuyen_nganh\\giay_application\\giay_application\\views\\hanghoa\\formthemsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|solutionrelative:giay_application\\views\\hanghoa\\formthemsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|d:\\\u0111\u1ED3 \u00E1n_n\u0103m 4\\thuc_tap_chuyen_nganh\\giay_application\\giay_application\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|solutionrelative:giay_application\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|d:\\\u0111\u1ED3 \u00E1n_n\u0103m 4\\thuc_tap_chuyen_nganh\\giay_application\\giay_application\\mymodels\\csanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C1CC7-E416-4A62-A7F1-BA84ECE4E1CA}|Giay_Application\\Giay_Application.csproj|solutionrelative:giay_application\\mymodels\\csanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanliBanGiayContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Models\\QuanliBanGiayContext.cs",
+              "RelativeDocumentMoniker": "Giay_Application\\Models\\QuanliBanGiayContext.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Models\\QuanliBanGiayContext.cs",
+              "RelativeToolTip": "Giay_Application\\Models\\QuanliBanGiayContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCIAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:26:10.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSanPham.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\MyModels\\CSanPham.cs",
+              "RelativeDocumentMoniker": "Giay_Application\\MyModels\\CSanPham.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\MyModels\\CSanPham.cs",
+              "RelativeToolTip": "Giay_Application\\MyModels\\CSanPham.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:52:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormThemSanpham.cshtml",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Views\\HangHoa\\FormThemSanpham.cshtml",
+              "RelativeDocumentMoniker": "Giay_Application\\Views\\HangHoa\\FormThemSanpham.cshtml",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Views\\HangHoa\\FormThemSanpham.cshtml",
+              "RelativeToolTip": "Giay_Application\\Views\\HangHoa\\FormThemSanpham.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-18T12:37:18.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "Giay_Application\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n_N\u0103m 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "Giay_Application\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAuwNQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T12:50:01.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

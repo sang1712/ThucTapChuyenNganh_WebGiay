@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Giay_Application.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+
+<div class="d-flex justify-content-between mb-3">
+    <h4 class="fw-semibold">Tổng sản phẩm: @Model.Count()</h4>
+
+    <a asp-action="FormThemSanpham" class="btn btn-success">
+        <i class="fa-solid fa-plus"></i> Thêm sản phẩm mới
+    </a>
+</div>
+
+<!-- Card Grid -->
+<div class="row row-cols-1 row-cols-md-3 row-cols-lg-4 g-4">
+
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card shadow-sm border-0 h-100">
+
+                <!-- Ảnh sản phẩm -->
+                <div class="position-relative">
+                    @{
+                        string tenfile = "~/images/" + item.HinhAnh;
+                    }
+                    <img src="@Url.Content(tenfile)" class="card-img-top" style="height:230px; object-fit:cover;" />
+
+                    <span class="badge bg-danger position-absolute top-0 end-0 m-2">
+                        @item.SoLuongTon cái
+                    </span>
+                </div>
+
+                <!-- Nội dung sản phẩm -->
+                <div class="card-body">
+                    <h5 class="card-title fw-semibold">@item.TenSp</h5>
+
+                    <p class="text-muted small mb-1">
+                        <i class="fa-solid fa-tag"></i> Mã SP: @item.MaSp
+                    </p>
+
+                    <h5 class="text-primary fw-bold">
+                        @String.Format("{0:N0}₫", item.Gia)
+                    </h5>
+
+                    <div class="mt-2 small">
+                        <span class="badge bg-secondary">Size: @item.MaSize</span>
+                        <span class="badge bg-dark">Màu: @item.MaMau</span>
+                    </div>
+
+                    <p class="small text-muted mt-2" style="height:45px; overflow:hidden;">
+                        @item.MoTa
+                    </p>
+                </div>
+
+                <!-- Footer nút chức năng -->
+                <div class="card-footer bg-white text-center">
+                    <a asp-action="FormChitietSanpham" asp-route-id="@item.MaSp"
+                       class="btn btn-primary btn-sm text-white px-4">
+                        <i class="fa-solid fa-eye"></i> Chi tiết
+                    </a>
+                </div>
+
+                @* <div class="card-footer bg-white d-flex justify-content-between">
+                    <a asp-action="FormSuaSanPham" asp-route-id="@item.MaSp"
+                       class="btn btn-primary btn-sm text-white">
+                        <i class="fa-solid fa-pen"></i> Sửa
+                    </a>
+
+                    <a asp-action="FormChitietSanpham" asp-route-id="@item.MaSp"
+                       class="btn btn-primary btn-sm text-white">
+                        <i class="fa-solid fa-eye"></i> Xem
+                    </a>
+
+                    <a asp-action="FormXoaSanPham" asp-route-id="@item.MaSp"
+                       class="btn btn-danger btn-sm text-white">
+                        <i class="fa-solid fa-trash"></i> Xóa
+                    </a>
+                </div> *@
+
+
+            </div>
+        </div>
+    }
+</div>

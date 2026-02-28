@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Giay_Application.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Giay_Application.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\1a52e00f-35f2-4fb2-9503-0cebabe6f8a9.jpg",
+      "PackagePath": "staticwebassets\\images\\1a52e00f-35f2-4fb2-9503-0cebabe6f8a9.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\3b17f625-a3a9-4f11-817c-074c62231d91.jpg",
+      "PackagePath": "staticwebassets\\images\\3b17f625-a3a9-4f11-817c-074c62231d91.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\4ecc0bc4-40d4-4fb1-8670-bef5306bf5c6.jpg",
+      "PackagePath": "staticwebassets\\images\\4ecc0bc4-40d4-4fb1-8670-bef5306bf5c6.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\Converse_Chuck_Taylor.jpg",
+      "PackagePath": "staticwebassets\\images\\Converse_Chuck_Taylor.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\New_Balance530.jpg",
+      "PackagePath": "staticwebassets\\images\\New_Balance530.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\adidas_samba.jpg",
+      "PackagePath": "staticwebassets\\images\\adidas_samba.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\nike-jordan1.jpg",
+      "PackagePath": "staticwebassets\\images\\nike-jordan1.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\panner.jpg",
+      "PackagePath": "staticwebassets\\images\\panner.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp01.jpg",
+      "PackagePath": "staticwebassets\\images\\sp01.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp02.jpg",
+      "PackagePath": "staticwebassets\\images\\sp02.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp03.jpg",
+      "PackagePath": "staticwebassets\\images\\sp03.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp04.jpg",
+      "PackagePath": "staticwebassets\\images\\sp04.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp06.jpg",
+      "PackagePath": "staticwebassets\\images\\sp06.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp07.jpg",
+      "PackagePath": "staticwebassets\\images\\sp07.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp08.jpg",
+      "PackagePath": "staticwebassets\\images\\sp08.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp09.jpg",
+      "PackagePath": "staticwebassets\\images\\sp09.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp10.jpg",
+      "PackagePath": "staticwebassets\\images\\sp10.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp11.jpg",
+      "PackagePath": "staticwebassets\\images\\sp11.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp12.jpg",
+      "PackagePath": "staticwebassets\\images\\sp12.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp13.jpg",
+      "PackagePath": "staticwebassets\\images\\sp13.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp14.jpg",
+      "PackagePath": "staticwebassets\\images\\sp14.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp15.jpg",
+      "PackagePath": "staticwebassets\\images\\sp15.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp16.jpg",
+      "PackagePath": "staticwebassets\\images\\sp16.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp17.jpg",
+      "PackagePath": "staticwebassets\\images\\sp17.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp18.jpg",
+      "PackagePath": "staticwebassets\\images\\sp18.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp19.jpg",
+      "PackagePath": "staticwebassets\\images\\sp19.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp20.jpg",
+      "PackagePath": "staticwebassets\\images\\sp20.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\images\\sp21.jpg",
+      "PackagePath": "staticwebassets\\images\\sp21.jpg"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Đồ án_Năm 4\\THUC_TAP_CHUYEN_NGANH\\Giay_Application\\Giay_Application\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Giay_Application.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Giay_Application.props",
+      "PackagePath": "build\\Giay_Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Giay_Application.props",
+      "PackagePath": "buildMultiTargeting\\Giay_Application.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Giay_Application.props",
+      "PackagePath": "buildTransitive\\Giay_Application.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+﻿@model Giay_Application.Models.SanPham
+
+@{
+    ViewData["Title"] = "FormXoaSanPham";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Xóa sản phẩm</h1>
+
+    <div class="card shadow-sm">
+        <div class="card-header bg-danger text-white">
+            <h4 class="mb-0">Bạn muốn xóa sản phẩm này chứ?</h4>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaSp)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaSp)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.TenSp)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.TenSp)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Gia)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Gia)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.SoLuongTon)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.SoLuongTon)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.HinhAnh)</dt>
+                <dd class="col-sm-9">
+                    @if (!string.IsNullOrEmpty(Model.HinhAnh))
+                    {
+                        <img src="~/images/@Model.HinhAnh" alt="Hình sản phẩm" class="img-thumbnail" style="max-width:150px;" />
+                    }
+                    else
+                    {
+                        <span class="text-muted">Không có ảnh</span>
+                    }
+                </dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaLoai)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaLoai)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaNcc)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaNcc)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaKm)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaKm)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaSize)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaSize)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaMau)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaMau)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MaTh)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MaTh)</dd>
+
+                <dt class="col-sm-3">@Html.DisplayNameFor(model => model.MoTa)</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.MoTa)</dd>
+            </dl>
+
+            <form asp-action="XoaSanPham" asp-controller="HangHoa" method="post">
+                @Html.AntiForgeryToken()
+                <input type="hidden" name="id" value="@Model.MaSp" />
+                <input type="submit" value="Xóa" class="btn btn-danger" />
+
+                <a asp-action="FormChitietSanpham"
+                   asp-route-id="@Model.MaSp"
+                   class="btn btn-secondary ms-2">
+                    Hủy
+                </a>
+            </form>
+
+        </div>
+    </div>
+</div>

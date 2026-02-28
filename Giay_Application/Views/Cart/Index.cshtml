@@ -1,0 +1,69 @@
+﻿@using Newtonsoft.Json
+@using Giay_Application.Controllers
+@{
+    ViewData["Title"] = "Giỏ hàng";
+
+    var session = Context.Request.HttpContext.Session.GetString("cart");
+    List<HangHoaController.CartItem> cart = new();
+
+    if (!string.IsNullOrEmpty(session))
+    {
+        cart = JsonConvert.DeserializeObject<List<HangHoaController.CartItem>>(session)
+               ?? new List<HangHoaController.CartItem>();
+    }
+}
+
+<div class="container my-5">
+
+    <h2 class="fw-bold mb-4">Giỏ hàng</h2>
+
+    @if (cart.Count == 0)
+    {
+        <div class="alert alert-warning">Giỏ hàng trống!</div>
+        <a href="/Home/Index" class="btn btn-primary">Tiếp tục mua hàng</a>
+    }
+    else
+    {
+        <table class="table table-bordered text-center align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>Hình</th>
+                    <th>Tên sản phẩm</th>
+                    <th>Size</th>
+                    <th>Màu</th>
+                    <th>Số lượng</th>
+                    <th>Giá</th>
+                    <th>Xóa</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in cart)
+                {
+                    <tr>
+                        <td><img src="/images/@item.HinhAnh" width="80" /></td>
+                        <td>@item.TenSp</td>
+                        <td>@item.Size</td>
+                        <td>@item.Mau</td>
+                        <td>@item.Quantity</td>
+                        <td>@String.Format("{0:N0}₫", item.Gia)</td>
+                        <td>
+                            <a asp-controller="Cart"
+                               asp-action="DeleteItem"
+                               asp-route-MaSp="@item.MaSp"
+                               asp-route-size="@item.Size"
+                               asp-route-mau="@item.Mau"
+                               class="btn btn-danger btn-sm">
+                                Xóa
+                            </a>
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+        <a href="/Home/Index" class="btn btn-secondary">Tiếp tục mua hàng</a>
+
+    }
+</div>

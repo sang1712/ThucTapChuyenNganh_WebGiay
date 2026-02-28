@@ -1,0 +1,113 @@
+﻿@model Giay_Application.Models.SanPham
+
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+<style>
+    .product-img {
+        border-radius: 15px;
+        transition: transform 0.3s ease;
+    }
+
+        .product-img:hover {
+            transform: scale(1.03);
+        }
+
+    .info-box {
+        background: #f8f9fa;
+        padding: 12px 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+    }
+
+    .label-title {
+        font-weight: 600;
+        color: #555;
+    }
+
+    .value-text {
+        font-weight: 600;
+        color: #222;
+    }
+</style>
+
+<h3 class="mb-4 fw-bold">
+    <i class="fa-solid fa-circle-info"></i> Chi tiết sản phẩm
+</h3>
+
+<div class="card shadow-sm p-4">
+
+    <div class="row g-4">
+
+        <!-- Ảnh -->
+        <div class="col-md-5 text-center">
+            @{
+                string anh = "~/images/" + Model.HinhAnh;
+            }
+
+            <img src="@Url.Content(anh)" class="img-fluid product-img shadow-sm" />
+        </div>
+
+        <!-- Thông tin -->
+        <div class="col-md-7">
+
+            <h3 class="fw-bold mb-2">@Model.TenSp</h3>
+
+            <p class="text-muted small mb-3">
+                <i class="fa-solid fa-barcode"></i> Mã sản phẩm: <strong>@Model.MaSp</strong>
+            </p>
+
+            <h3 class="text-primary fw-bold mb-4">
+                @String.Format("{0:N0}₫", Model.Gia)
+            </h3>
+
+            <div class="info-box">
+                <span class="label-title">Số lượng tồn:</span>
+                <span class="value-text">@Model.SoLuongTon cái</span>
+            </div>
+
+            <div class="info-box">
+                <span class="label-title">Size:</span>
+                <span class="value-text">@Model.MaSize</span>
+            </div>
+
+            <div class="info-box">
+                <span class="label-title">Màu sắc:</span>
+                <span class="value-text">@Model.MaMau</span>
+            </div>
+
+            <div class="info-box">
+                <span class="label-title">Thương hiệu:</span>
+                <span class="value-text">@Model.MaTh</span>
+            </div>
+
+            <div class="info-box" style="min-height: 80px;">
+                <span class="label-title">Mô tả:</span>
+                <p class="value-text mt-1">@Model.MoTa</p>
+            </div>
+
+            <div class="mt-4">
+                <a asp-action="FormSuaSanPham" asp-route-id="@Model.MaSp"
+                   class="btn btn-warning text-white me-2 px-3">
+                    <i class="fa-solid fa-pen"></i> Sửa
+                </a>
+
+                <a asp-action="FormXoaSanPham" asp-route-id="@Model.MaSp"
+                   class="btn btn-danger me-2 px-3">
+                    <i class="fa-solid fa-trash"></i> Xóa
+                </a>
+
+                <a asp-action="Index" class="btn btn-secondary px-3">
+                    <i class="fa-solid fa-arrow-left"></i> Trở lại
+                </a>
+            </div>
+
+        </div>
+    </div>
+
+</div>

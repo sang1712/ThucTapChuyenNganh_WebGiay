@@ -1,0 +1,70 @@
+﻿@model Giay_Application.Models.SanPham
+
+@{
+    var img = "/images/" + Model.HinhAnh;
+}
+
+<div class="container my-5">
+    <div class="row">
+        <!-- ẢNH SẢN PHẨM -->
+        <div class="col-md-5 text-center">
+            <img src="@img" alt="@Model.TenSp" class="img-fluid rounded shadow" />
+        </div>
+
+        <!-- THÔNG TIN -->
+        <div class="col-md-7">
+            <h2 class="fw-bold">@Model.TenSp</h2>
+
+            <h4 class="text-danger fw-bold">
+                @String.Format("{0:N0}₫", Model.Gia ?? 0)
+            </h4>
+
+            <p class="mt-3">@Model.MoTa</p>
+
+            <form method="post" asp-action="AddToCart" asp-controller="HangHoa">
+                <input type="hidden" name="MaSp" value="@Model.MaSp" />
+
+                <!-- SIZE -->
+                <div class="mb-3">
+                    <label class="fw-bold">Size giày</label>
+                    <select name="size" class="form-select w-50">
+                        <option value="">-- Chọn size --</option>
+
+                        @* Nếu bạn có bảng SizeGiay liên kết *@
+                        @if (Model.MaSizeNavigation != null)
+                        {
+                            <option value="@Model.MaSizeNavigation.MaSize">
+                                @Model.MaSizeNavigation.KichCo
+                            </option>
+                        }
+                        else
+                        {
+                            <!-- Dữ liệu mẫu nếu chưa có bảng size -->
+                            <option value="38">38</option>
+                            <option value="39">39</option>
+                            <option value="40">40</option>
+                            <option value="41">41</option>
+                            <option value="42">42</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- SỐ LƯỢNG -->
+                <div class="mb-3">
+                    <label class="fw-bold">Số lượng</label>
+                    <input type="number" name="quantity" value="1" min="1"
+                           max="@Model.SoLuongTon"
+                           class="form-control w-25" />
+                </div>
+
+                <button type="submit" class="btn btn-primary btn-lg mt-3">
+                    Thêm vào giỏ hàng
+                </button>
+            </form>
+
+            <a href="/HangHoa/Index" class="btn btn-secondary mt-3">
+                Quay lại
+            </a>
+        </div>
+    </div>
+</div>

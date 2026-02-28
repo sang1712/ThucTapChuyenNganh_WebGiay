@@ -1,0 +1,33 @@
+﻿@model List<Giay_Application.Models.SanPham>
+
+<div class="container my-5">
+    <h3 class="text-center fw-bold mb-4">Tất cả sản phẩm</h3>
+
+    <div class="row g-4">
+        @foreach (var item in Model)
+        {
+            var img = "/images/" + item.HinhAnh;
+
+            <div class="col-md-3">
+                <div class="card product-card">
+                    <img src="@img" class="card-img-top" alt="@item.TenSp" />
+
+                    <div class="card-body text-center">
+                        <h5>@item.TenSp</h5>
+
+                        <p class="price">
+                            @String.Format("{0:N0}₫", item.Gia ?? 0)
+                        </p>
+
+                        <a asp-controller="HangHoa"
+                           asp-action="Detail"
+                           asp-route-id="@item.MaSp"
+                           class="btn btn-outline-primary btn-sm">
+                            Mua ngay
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

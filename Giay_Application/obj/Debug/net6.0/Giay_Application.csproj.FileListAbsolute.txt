@@ -1,0 +1,1289 @@
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.runtime.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.exe
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.deps.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.runtimeconfig.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.pdb
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.AssemblyReference.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfoInputs.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfo.cs
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.CoreCompileInputs.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cs
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.Giay_Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.build.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\bundle\Giay_Application.styles.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\projectbundle\Giay_Application.bundle.scp.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_App.18EB959E.Up2Date
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\refint\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.pdb
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.genruntimeconfig.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\obj\Debug\net6.0\ref\Giay_Application.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.Development.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.runtime.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.endpoints.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.exe
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.deps.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.runtimeconfig.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.pdb
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Humanizer.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Common.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.AssemblyReference.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfoInputs.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfo.cs
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.CoreCompileInputs.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cs
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\bundle\Giay_Application.styles.css
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\projectbundle\Giay_Application.bundle.scp.css
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_App.18EB959E.Up2Date
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\refint\Giay_Application.dll
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.pdb
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.genruntimeconfig.cache
+D:\thuctap_doanchuyennganh\Giay_Application\Giay_Application\obj\Debug\net6.0\ref\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.Development.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.runtime.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.exe
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.deps.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.runtimeconfig.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.pdb
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Humanizer.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.AssemblyReference.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfoInputs.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfo.cs
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.CoreCompileInputs.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cs
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.Giay_Application.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.build.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Giay_Application.props
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\bundle\Giay_Application.styles.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\projectbundle\Giay_Application.bundle.scp.css
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_App.18EB959E.Up2Date
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\refint\Giay_Application.dll
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.pdb
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.genruntimeconfig.cache
+D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Đồ_án\Giay_Application\Giay_Application\obj\Debug\net6.0\ref\Giay_Application.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.Development.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.runtime.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.endpoints.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.exe
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.deps.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.runtimeconfig.json
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.pdb
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Humanizer.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Common.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DACN\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.AssemblyReference.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfoInputs.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfo.cs
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.CoreCompileInputs.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cs
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\bundle\Giay_Application.styles.css
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\projectbundle\Giay_Application.bundle.scp.css
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_App.18EB959E.Up2Date
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.dll
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\refint\Giay_Application.dll
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.pdb
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.genruntimeconfig.cache
+D:\DACN\Giay_Application\Giay_Application\obj\Debug\net6.0\ref\Giay_Application.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.Development.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\appsettings.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.endpoints.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.staticwebassets.runtime.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.exe
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.deps.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.runtimeconfig.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Giay_Application.pdb
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Humanizer.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Common.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.AssemblyReference.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\rpswa.dswa.cache.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfoInputs.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.AssemblyInfo.cs
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.csproj.CoreCompileInputs.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.MvcApplicationPartsAssemblyInfo.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.RazorAssemblyInfo.cs
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\rjimswa.dswa.cache.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\bundle\Giay_Application.styles.css
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\scopedcss\projectbundle\Giay_Application.bundle.scp.css
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.json.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.development.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_App.18EB959E.Up2Date
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\refint\Giay_Application.dll
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.pdb
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\Giay_Application.genruntimeconfig.cache
+D:\Do_an_chuyen_nganh_thuc_tap\Giay_Application\Giay_Application\obj\Debug\net6.0\ref\Giay_Application.dll

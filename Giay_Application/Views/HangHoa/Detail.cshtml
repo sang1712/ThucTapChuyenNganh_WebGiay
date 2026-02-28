@@ -1,0 +1,83 @@
+﻿@model Giay_Application.Models.SanPham
+
+@{
+    var img = "/images/" + Model.HinhAnh;
+}
+
+<div class="container my-5">
+    <div class="row">
+
+        <!-- HÌNH ẢNH -->
+        <div class="col-md-5 text-center">
+            <img src="@img" class="img-fluid rounded shadow" />
+        </div>
+
+        <!-- THÔNG TIN SẢN PHẨM -->
+        <div class="col-md-7">
+
+            <h2 class="fw-bold">@Model.TenSp</h2>
+
+            <h4 class="text-danger fw-bold">
+                @String.Format("{0:N0}₫", Model.Gia ?? 0)
+            </h4>
+
+            <!-- CHỈ HIỂN THỊ THƯƠNG HIỆU GỐC -->
+            <p class="mt-3"><strong>Thương hiệu:</strong> @Model.MaThNavigation?.TenTh</p>
+            <p><strong>Số lượng tồn:</strong> @Model.SoLuongTon</p>
+
+            <hr />
+
+            <!-- FORM GIỎ HÀNG -->
+            <form method="post" action="/HangHoa/AddToCart">
+
+                <input type="hidden" name="MaSp" value="@Model.MaSp" />
+
+                <!-- CHỌN MÀU -->
+                <div class="mb-3">
+                    <label><strong>Chọn màu</strong></label>
+                    <select name="mau" class="form-select w-50" required>
+                        <option value="">-- Chọn màu --</option>
+                        @foreach (var m in ViewBag.ListColor)
+                        {
+                            <option value="@m.MaMau">@m.TenMau</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- CHỌN SIZE -->
+                <div class="mb-3">
+                    <label><strong>Chọn size</strong></label>
+                    <select name="size" class="form-select w-50" required>
+                        <option value="">-- Chọn size --</option>
+                        @foreach (var s in ViewBag.ListSize)
+                        {
+                            <option value="@s.MaSize">@s.KichCo</option>
+                        }
+                    </select>
+                </div>
+
+                <!-- NHẬP MÃ GIẢM GIÁ -->
+                <div class="mb-3">
+                    <label><strong>Mã khuyến mãi (nếu có)</strong></label>
+                    <input type="text" name="promoCode" class="form-control w-50"
+                           placeholder="Nhập mã giảm giá" />
+                </div>
+
+
+                <!-- SỐ LƯỢNG -->
+                <div class="mb-3">
+                    <label><strong>Số lượng đặt</strong></label>
+                    <input type="number" class="form-control w-25"
+                           name="quantity" min="1" max="@Model.SoLuongTon"
+                           value="1" required />
+                </div>
+
+                <!-- NÚT -->
+                <button type="submit" class="btn btn-primary btn-lg">Thêm vào giỏ hàng</button>
+                <a href="/Home/Index" class="btn btn-secondary btn-lg ms-2">Quay lại</a>
+
+            </form>
+
+        </div>
+    </div>
+</div>

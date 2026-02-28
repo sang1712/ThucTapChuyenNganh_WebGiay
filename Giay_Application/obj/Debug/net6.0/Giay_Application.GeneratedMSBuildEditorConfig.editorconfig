@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Giay_Application
+build_property.RootNamespace = Giay_Application
+build_property.ProjectDir = D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Đồ án_Năm 4\THUC_TAP_CHUYEN_NGANH\Giay_Application\Giay_Application
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/AddToCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxBZGRUb0NhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/FormChitietSanpham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxGb3JtQ2hpdGlldFNhbnBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/FormSuaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxGb3JtU3VhU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/FormThemSanpham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxGb3JtVGhlbVNhbnBoYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/FormXoaSanPham.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxGb3JtWG9hU2FuUGhhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/HangHoa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFuZ0hvYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Đồ án_Năm 4/THUC_TAP_CHUYEN_NGANH/Giay_Application/Giay_Application/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-b3c6bins5h

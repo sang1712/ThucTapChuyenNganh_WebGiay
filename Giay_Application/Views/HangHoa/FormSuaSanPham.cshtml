@@ -1,0 +1,97 @@
+﻿@model Giay_Application.Models.SanPham
+@{
+    ViewData["Title"] = "Sửa sản phẩm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center mb-4">Sửa sản phẩm</h2>
+
+<form asp-action="SuaSanPham" method="post" enctype="multipart/form-data" class="row g-3">
+
+    <!-- KHÔNG cho sửa mã sản phẩm -->
+    <input type="hidden" asp-for="MaSp" />
+
+    <!-- Giữ lại ảnh cũ nếu không chọn ảnh mới -->
+    <input type="hidden" asp-for="HinhAnh" />
+
+    <div class="col-md-6">
+        <label class="form-label">Tên sản phẩm</label>
+        <input asp-for="TenSp" class="form-control" />
+        <span asp-validation-for="TenSp" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Giá</label>
+        <input asp-for="Gia" type="number" class="form-control" />
+        <span asp-validation-for="Gia" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Số lượng tồn</label>
+        <input asp-for="SoLuongTon" type="number" class="form-control" />
+        <span asp-validation-for="SoLuongTon" class="text-danger"></span>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Loại sản phẩm</label>
+        <select asp-for="MaLoai" class="form-select" asp-items="ViewBag.LoaiSanPhams"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Nhà cung cấp</label>
+        <select asp-for="MaNcc" class="form-select" asp-items="ViewBag.NhaCungCaps"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Khuyến mãi</label>
+        <select asp-for="MaKm" class="form-select" asp-items="ViewBag.KhuyenMais"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Size</label>
+        <select asp-for="MaSize" class="form-select" asp-items="ViewBag.SizeGiays"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Màu sắc</label>
+        <select asp-for="MaMau" class="form-select" asp-items="ViewBag.MauSacs"></select>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Thương hiệu</label>
+        <select asp-for="MaTh" class="form-select" asp-items="ViewBag.ThuongHieus"></select>
+    </div>
+
+    <div class="col-12">
+        <label class="form-label">Mô tả</label>
+        <textarea asp-for="MoTa" class="form-control" rows="3"></textarea>
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Hình hiện tại</label><br />
+        @if (!string.IsNullOrEmpty(Model.HinhAnh))
+        {
+            <img src="~/images/@Model.HinhAnh" alt="Hình SP" class="img-thumbnail" width="180" />
+        }
+        else
+        {
+            <span class="text-muted">Chưa có hình</span>
+        }
+    </div>
+
+    <div class="col-md-6">
+        <label class="form-label">Chọn hình mới (nếu muốn đổi)</label>
+        <input type="file" name="fileHinh" class="form-control" />
+    </div>
+
+    <div class="col-12 text-center mt-3">
+        <button type="submit" class="btn btn-primary px-4">Lưu thay đổi</button>
+
+        <a asp-action="FormChitietSanpham" asp-route-id="@Model.MaSp" class="btn btn-secondary px-4">Quay lại </a>
+    </div>
+
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

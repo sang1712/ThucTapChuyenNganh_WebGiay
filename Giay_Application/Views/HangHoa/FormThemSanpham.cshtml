@@ -1,0 +1,94 @@
+﻿@model Giay_Application.MyModels.CSanPham
+
+@{
+    ViewData["Title"] = "Thêm sản phẩm mới";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="mb-4 text-center">Thêm sản phẩm mới</h1>
+
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <form asp-action="ThemSanPham" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã sản phẩm</label>
+                <input asp-for="MaSp" class="form-control" />
+                <span asp-validation-for="MaSp" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Tên sản phẩm</label>
+                <input asp-for="TenSp" class="form-control" />
+                <span asp-validation-for="TenSp" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Giá</label>
+                <input asp-for="Gia" class="form-control" />
+                <span asp-validation-for="Gia" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Số lượng tồn</label>
+                <input asp-for="SoLuongTon" class="form-control" />
+                <span asp-validation-for="SoLuongTon" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label>Hình ảnh</label>
+                <input asp-for="FileHinh" type="file" class="form-control" />
+                <span asp-validation-for="FileHinh" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã loại</label>
+                <select asp-for="MaLoai" asp-items="@(ViewBag.LoaiSanPhams as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaLoai" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Nhà cung cấp</label>
+                <select asp-for="MaNcc" asp-items="@(ViewBag.NhaCungCaps as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaNcc" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã khuyến mãi</label>
+                <select asp-for="MaKm" asp-items="@(ViewBag.KhuyenMais as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaKm" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã size</label>
+                <select asp-for="MaSize" asp-items="@(ViewBag.SizeGiays as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaSize" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã màu</label>
+                <select asp-for="MaMau" asp-items="@(ViewBag.MauSacs as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaMau" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mã thương hiệu</label>
+                <select asp-for="MaTh" asp-items="@(ViewBag.ThuongHieus as SelectList)" class="form-select"></select>
+                <span asp-validation-for="MaTh" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label class="form-label">Mô tả</label>
+                <input asp-for="MoTa" class="form-control" />
+                <span asp-validation-for="MoTa" class="text-danger"></span>
+            </div>
+
+            <div class="text-center mb-4">
+                <input type="submit" value="Thêm" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Trở về</a>
+            </div>
+        </form>
+    </div>
+</div>
